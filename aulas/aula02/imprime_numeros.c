@@ -10,6 +10,7 @@ int main() {
     printf("%f\n", 8.5);
     printf("%.1f\n", 8.5);
 
+    // %NNN.CCCT
     printf("CPF = %lli\n", 11111111111);
     // preenche com espaco ate 11 digitos
     printf("CPF = %11i\n", 00000000001);
